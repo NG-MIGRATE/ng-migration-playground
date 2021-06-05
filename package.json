@@ -1,5 +1,5 @@
 {
-  "name": "sample-ng12",
+  "name": "ng-migration-playground",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
